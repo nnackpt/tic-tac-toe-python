@@ -29,7 +29,7 @@ A classic **Tic Tac Toe** (XO) game built with **Python**, featuring both **Text
 1. **Clone this repo**
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-python.git
+git clone https://github.com/nnackpt/tic-tac-toe-python.git
 cd tic-tac-toe-python
 ```
 

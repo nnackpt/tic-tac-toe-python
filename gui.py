@@ -70,9 +70,9 @@ class TicTacToeGUI:
             os.makedirs(assets_dir)
 
         sound_files = {
-            "click": os.path.join(assets_dir, "click.wav"),
-            "win": os.path.join(assets_dir, "win.wav"),
-            "draw": os.path.join(assets_dir, "draw.wav")
+            "click": os.path.join(assets_dir, "click.mp3"),
+            "win": os.path.join(assets_dir, "win.mp3"),
+            "draw": os.path.join(assets_dir, "draw.mp3")
         }
 
         for sound_name, file_path in sound_files.items():
